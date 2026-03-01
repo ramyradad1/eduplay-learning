@@ -1,0 +1,9 @@
+1:"$Sreact.fragment"
+2:I[47257,["/eduplay-learning/_next/static/chunks/2f236954d6a65e12.js"],"ClientPageRoot"]
+3:I[52683,["/eduplay-learning/_next/static/chunks/13b30887162f9dc2.js","/eduplay-learning/_next/static/chunks/5cbd943ee94f33ef.js","/eduplay-learning/_next/static/chunks/ad32ce14bb052c89.js"],"default"]
+6:I[97367,["/eduplay-learning/_next/static/chunks/2f236954d6a65e12.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+0:{"buildId":"Fclff-mSGkxsjW_ciwyVM","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/eduplay-learning/_next/static/chunks/13b30887162f9dc2.js","async":true}],["$","script","script-1",{"src":"/eduplay-learning/_next/static/chunks/5cbd943ee94f33ef.js","async":true}],["$","script","script-2",{"src":"/eduplay-learning/_next/static/chunks/ad32ce14bb052c89.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+4:{}
+5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
+8:null
